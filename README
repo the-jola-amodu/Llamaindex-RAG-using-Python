@@ -1,1 +1,6 @@
-Will be updated soon
+Currently using:
+ - Pymupdf for text extraction
+ - Mistral 7B Instruct when I can use Colab GPU
+ - TinyLlama 1.1B when I can't
+ - Facebook BART Large MNLI for document and query classification
+ - E5-base-v2 for embedding
